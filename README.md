@@ -1,4 +1,4 @@
-# smart-parking-finder
+# API's Used:
 1. Network Information API
 What it does: Checks the user's internet connection speed. If it's slow (like 2G), the app switches to a "Low Data Mode" to save data.
 
