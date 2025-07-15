@@ -1,0 +1,19 @@
+ body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#parking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.parking-spot {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f9f9f9;
+  min-height: 80px;
+}
+
